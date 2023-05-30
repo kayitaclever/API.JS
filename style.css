@@ -1,0 +1,8 @@
+#users{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.people{
+ border:solid
+}
