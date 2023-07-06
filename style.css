@@ -145,3 +145,29 @@ border-radius: 20px;
 
 list-style: none;   
 }
+#users{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.people{
+    border: solid rgb(208, 195, 195);
+    border-radius: 5px;
+    margin-bottom: 20;
+    text-align: center;
+}
+.user-lists{
+    text-align: center;
+}
+.new-user{
+    border: none;
+    outline: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    margin: 2% 0;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}

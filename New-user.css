@@ -1,0 +1,22 @@
+.form{
+margin: 0 auto;
+width: 40%;
+
+}
+
+.form > input{
+    padding: 18px 20px ; 
+    border: solid 1px white ;
+    border-radius: 5px;
+    width: 70%;
+    font-size: 18px;
+}
+.form > button {
+    border: none;
+    outline: none;
+    background-color: blueviolet;
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+}
